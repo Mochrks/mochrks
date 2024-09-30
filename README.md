@@ -46,7 +46,7 @@ I am a Software Developer with a deep passion for crafting websites and building
 
 ⭐️ Feel free to explore my repositories and projects!
 ---
-![Visitor Badge](https://shields.io/badge/dynamic/json?color=success&label=Visitors&query=value&url=https://api.countapi.xyz/hit/Mochrks.Mochrks)
+
 
 
 
