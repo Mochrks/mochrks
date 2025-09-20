@@ -17,7 +17,25 @@ I am a passionate Software Developer specializing in crafting dynamic websites a
 
 
 
-  
+<a href="https://github.com/mochrks/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochrks&layout=compact&theme=buefy&hide_border=true" /></a> 
+
+## 🔥 Github Stats
+
+<img align="right" width="32%" src="https://i.pinimg.com/736x/b8/9c/ad/b89cad3e271936d82d79bdded2a17ab4.jpg"/>
+
+  <a href="https://github.com/mochrks"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mochrks&theme=radical&title_color=ff3068?"></a>
+ 
+
+## 📘 My top open source projects
+
+<p align="left">
+    <a href="https://github.com/Mochrks/web-chat-ai"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Mochrks&repo=web-chat-ai&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Mochrks/moup-ui-projects"><img width="25%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Mochrks&repo=moup-ui-projects&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="custom-icon-badges"></a>
+</p>
+
+
+
+</p>
 
 
 ## Connect with me:
