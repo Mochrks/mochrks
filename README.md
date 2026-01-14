@@ -21,7 +21,7 @@ I am a passionate Software Developer specializing in crafting dynamic websites a
 
 ## 🔥 Github Stats
 
-<img align="right" width="32%" src="https://i.pinimg.com/736x/b8/9c/ad/b89cad3e271936d82d79bdded2a17ab4.jpg"/>
+<!-- <img align="right" width="32%" src="https://i.pinimg.com/736x/b8/9c/ad/b89cad3e271936d82d79bdded2a17ab4.jpg"/> -->
 
 
 
