@@ -17,14 +17,13 @@ I am a passionate Software Developer specializing in crafting dynamic websites a
 
 
 
-<a href="https://github.com/mochrks/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochrks&layout=compact&theme=buefy&hide_border=true" /></a> 
+<!-- <a href="https://github.com/mochrks/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochrks&layout=compact&theme=buefy&hide_border=true" /></a>  -->
 
 ## 🔥 Github Stats
 
 <img align="right" width="32%" src="https://i.pinimg.com/736x/b8/9c/ad/b89cad3e271936d82d79bdded2a17ab4.jpg"/>
 
-  <a href="https://github.com/mochrks"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=mochrks&theme=radical&title_color=ff3068?"></a>
- 
+
 
 ## 📘 My top open source projects
 
