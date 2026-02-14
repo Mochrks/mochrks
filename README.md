@@ -34,23 +34,21 @@
 
 <br/>
 
-<!-- GitHub Trophies -->
-<h2 align="center"> 🏆 My GitHub Trophies </h2>
+<h2 align="center"> 🛠️ My Tech Stack </h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mochrks&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,tailwind,mui,spring,ts,js,nodejs,express,mongodb,mysql,postgres,python,pytorch,tensorflow,git,figma,postman" />
 </p>
+
 
 <br/>
 
 <!-- Stats Section (Responsive Refactor) -->
 <h2 align="center"> 🔥 GitHub Stats </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mochrks&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8" alt="General Stats" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mochrks&theme=tokyonight&hide_border=true&ring=00b4d8&fire=00b4d8&stroke=00b4d8" alt="Streak Stats" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mochrks&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8" alt="Top Languages" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mochrks&theme=react-dark&bg_color=0D1117&color=00b4d8&line=00b4d8&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" height="150" />
 </p>
 
