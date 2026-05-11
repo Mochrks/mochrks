@@ -29,7 +29,7 @@
 
 <h2 align="center"> 🛠️ My Tech Stack </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,tailwind,mui,spring,ts,js,nodejs,express,mongodb,mysql,postgres,python,pytorch,tensorflow,git,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vuejs,react,tailwind,mui,spring,ts,js,nodejs,express,mongodb,mysql,postgres,python,git,figma,postman&theme=dark" />
 </p>
 
 <br/>
