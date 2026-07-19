@@ -1,6 +1,6 @@
 <!-- Clean Monochrome Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Moch.%20Rizki%20Kurniawan&fontSize=45&fontAlignY=40&desc=Frontend%20Developer%20|%20Software%20Developer&descAlignY=62&descSize=18&fontColor=FFFFFF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Moch.%20Rizki%20Kurniawan&fontSize=45&fontAlignY=40&desc=%20Software%20Developer&descAlignY=62&descSize=18&fontColor=FFFFFF" width="100%" />
 </p>
 
 <br/>
